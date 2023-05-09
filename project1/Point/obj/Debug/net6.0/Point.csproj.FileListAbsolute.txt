@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\R-eve\project1\Point\obj\Debug\net6.0\Point.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\R-eve\project1\Point\obj\Debug\net6.0\Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\R-eve\project1\Point\obj\Debug\net6.0\Point.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\R-eve\project1\Point\obj\Debug\net6.0\Point.AssemblyInfo.cs
+C:\Users\ododo\Desktop\R-eve\project1\Point\obj\Debug\net6.0\Point.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\R-eve\project1\Point\bin\Debug\net6.0\Point.exe
+C:\Users\ododo\Desktop\R-eve\project1\Point\bin\Debug\net6.0\Point.deps.json
+C:\Users\ododo\Desktop\R-eve\project1\Point\bin\Debug\net6.0\Point.runtimeconfig.json
+C:\Users\ododo\Desktop\R-eve\project1\Point\bin\Debug\net6.0\Point.dll
+C:\Users\ododo\Desktop\R-eve\project1\Point\bin\Debug\net6.0\Point.pdb
+C:\Users\ododo\Desktop\R-eve\project1\Point\obj\Debug\net6.0\Point.dll
+C:\Users\ododo\Desktop\R-eve\project1\Point\obj\Debug\net6.0\refint\Point.dll
+C:\Users\ododo\Desktop\R-eve\project1\Point\obj\Debug\net6.0\Point.pdb
+C:\Users\ododo\Desktop\R-eve\project1\Point\obj\Debug\net6.0\Point.genruntimeconfig.cache
+C:\Users\ododo\Desktop\R-eve\project1\Point\obj\Debug\net6.0\ref\Point.dll

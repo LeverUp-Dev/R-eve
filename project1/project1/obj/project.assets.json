@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\project1\\project1.csproj",
-      "projectName": "project1",
-      "projectPath": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\project1\\project1.csproj",
+      "projectUniqueName": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\project1\\Cicrcle.csproj",
+      "projectName": "Cicrcle",
+      "projectPath": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\project1\\Cicrcle.csproj",
       "packagesPath": "C:\\Users\\ododo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\project1\\obj\\",
       "projectStyle": "PackageReference",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

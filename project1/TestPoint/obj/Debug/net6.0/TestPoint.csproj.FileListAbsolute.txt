@@ -1,0 +1,5 @@
+C:\Users\ododo\Desktop\R-eve\project1\TestPoint\obj\Debug\net6.0\TestPoint.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\R-eve\project1\TestPoint\obj\Debug\net6.0\TestPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\R-eve\project1\TestPoint\obj\Debug\net6.0\TestPoint.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\R-eve\project1\TestPoint\obj\Debug\net6.0\TestPoint.AssemblyInfo.cs
+C:\Users\ododo\Desktop\R-eve\project1\TestPoint\obj\Debug\net6.0\TestPoint.csproj.CoreCompileInputs.cache
