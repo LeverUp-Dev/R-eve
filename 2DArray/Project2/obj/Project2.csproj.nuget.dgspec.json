@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\Point\\Point.csproj": {}
+    "C:\\Users\\ododo\\Desktop\\R-eve\\2DArray\\Project2\\Project2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\Point\\Point.csproj": {
+    "C:\\Users\\ododo\\Desktop\\R-eve\\2DArray\\Project2\\Project2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\Point\\Point.csproj",
-        "projectName": "Point",
-        "projectPath": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\Point\\Point.csproj",
+        "projectUniqueName": "C:\\Users\\ododo\\Desktop\\R-eve\\2DArray\\Project2\\Project2.csproj",
+        "projectName": "Project2",
+        "projectPath": "C:\\Users\\ododo\\Desktop\\R-eve\\2DArray\\Project2\\Project2.csproj",
         "packagesPath": "C:\\Users\\ododo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\Point\\obj\\",
+        "outputPath": "C:\\Users\\ododo\\Desktop\\R-eve\\2DArray\\Project2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ododo\\AppData\\Roaming\\NuGet\\NuGet.Config",

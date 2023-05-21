@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\project1\\Cicrcle.csproj",
-      "projectName": "Cicrcle",
-      "projectPath": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\project1\\Cicrcle.csproj",
+      "projectUniqueName": "C:\\Users\\ododo\\Desktop\\R-eve\\2DArray\\Project2\\Project2.csproj",
+      "projectName": "Project2",
+      "projectPath": "C:\\Users\\ododo\\Desktop\\R-eve\\2DArray\\Project2\\Project2.csproj",
       "packagesPath": "C:\\Users\\ododo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ododo\\Desktop\\R-eve\\project1\\project1\\obj\\",
+      "outputPath": "C:\\Users\\ododo\\Desktop\\R-eve\\2DArray\\Project2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ododo\\AppData\\Roaming\\NuGet\\NuGet.Config",
