@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\bin\Debug\net6.0\Foker.exe
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\bin\Debug\net6.0\Foker.deps.json
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\bin\Debug\net6.0\Foker.runtimeconfig.json
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\bin\Debug\net6.0\Foker.dll
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\bin\Debug\net6.0\Foker.pdb
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\obj\Debug\net6.0\Foker.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\obj\Debug\net6.0\Foker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\obj\Debug\net6.0\Foker.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\obj\Debug\net6.0\Foker.AssemblyInfo.cs
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\obj\Debug\net6.0\Foker.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\obj\Debug\net6.0\Foker.dll
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\obj\Debug\net6.0\refint\Foker.dll
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\obj\Debug\net6.0\Foker.pdb
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\obj\Debug\net6.0\Foker.genruntimeconfig.cache
+C:\Users\ododo\Desktop\R-eve\3회차\R-eve3\Foker\obj\Debug\net6.0\ref\Foker.dll
