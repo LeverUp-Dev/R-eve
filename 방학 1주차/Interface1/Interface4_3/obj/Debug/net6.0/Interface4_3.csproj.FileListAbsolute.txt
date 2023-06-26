@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\bin\Debug\net6.0\Interface4_3.exe
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\bin\Debug\net6.0\Interface4_3.deps.json
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\bin\Debug\net6.0\Interface4_3.runtimeconfig.json
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\bin\Debug\net6.0\Interface4_3.dll
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\bin\Debug\net6.0\Interface4_3.pdb
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\obj\Debug\net6.0\Interface4_3.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\obj\Debug\net6.0\Interface4_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\obj\Debug\net6.0\Interface4_3.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\obj\Debug\net6.0\Interface4_3.AssemblyInfo.cs
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\obj\Debug\net6.0\Interface4_3.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\obj\Debug\net6.0\Interface4_3.dll
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\obj\Debug\net6.0\refint\Interface4_3.dll
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\obj\Debug\net6.0\Interface4_3.pdb
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\obj\Debug\net6.0\Interface4_3.genruntimeconfig.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Interface1\Interface4_3\obj\Debug\net6.0\ref\Interface4_3.dll
