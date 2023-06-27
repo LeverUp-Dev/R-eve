@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\bin\Debug\net6.0\Delegate&Lambda2.exe
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\bin\Debug\net6.0\Delegate&Lambda2.deps.json
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\bin\Debug\net6.0\Delegate&Lambda2.runtimeconfig.json
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\bin\Debug\net6.0\Delegate&Lambda2.dll
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\bin\Debug\net6.0\Delegate&Lambda2.pdb
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\obj\Debug\net6.0\Delegate&Lambda2.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\obj\Debug\net6.0\Delegate&Lambda2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\obj\Debug\net6.0\Delegate&Lambda2.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\obj\Debug\net6.0\Delegate&Lambda2.AssemblyInfo.cs
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\obj\Debug\net6.0\Delegate&Lambda2.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\obj\Debug\net6.0\Delegate&Lambda2.dll
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\obj\Debug\net6.0\refint\Delegate&Lambda2.dll
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\obj\Debug\net6.0\Delegate&Lambda2.pdb
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\obj\Debug\net6.0\Delegate&Lambda2.genruntimeconfig.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda2\obj\Debug\net6.0\ref\Delegate&Lambda2.dll

@@ -19,7 +19,7 @@
                 new Product() {Name = "배추", Price = 900}
             };
 
-            products.Sort(delegate(Product a, Product b) // 또는 람다식 방식: (a, b) =>
+            products.Sort(delegate(Product a, Product b) // 또는 3.람다식 방식: (a, b) =>
             {
                 return a.Name.CompareTo(b.Name);
             });
