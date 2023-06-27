@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\bin\Debug\net6.0\Linp.exe
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\bin\Debug\net6.0\Linp.deps.json
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\bin\Debug\net6.0\Linp.runtimeconfig.json
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\bin\Debug\net6.0\Linp.dll
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\bin\Debug\net6.0\Linp.pdb
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\obj\Debug\net6.0\Linp.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\obj\Debug\net6.0\Linp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\obj\Debug\net6.0\Linp.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\obj\Debug\net6.0\Linp.AssemblyInfo.cs
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\obj\Debug\net6.0\Linp.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\obj\Debug\net6.0\Linp.dll
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\obj\Debug\net6.0\refint\Linp.dll
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\obj\Debug\net6.0\Linp.pdb
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\obj\Debug\net6.0\Linp.genruntimeconfig.cache
+C:\Users\ododo\Desktop\R-eve\방학 1주차\Delegate&Lambda\Delegate&Lambda3_2\obj\Debug\net6.0\ref\Linp.dll

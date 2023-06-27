@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ododo\\Desktop\\R-eve\\방학 1주차\\Delegate&Lambda\\Delegate&Lambda3_2\\Delegate&Lambda3_2.csproj",
-      "projectName": "Delegate&Lambda3_2",
-      "projectPath": "C:\\Users\\ododo\\Desktop\\R-eve\\방학 1주차\\Delegate&Lambda\\Delegate&Lambda3_2\\Delegate&Lambda3_2.csproj",
+      "projectUniqueName": "C:\\Users\\ododo\\Desktop\\R-eve\\방학 1주차\\Delegate&Lambda\\Delegate&Lambda3_2\\Linp.csproj",
+      "projectName": "Linp",
+      "projectPath": "C:\\Users\\ododo\\Desktop\\R-eve\\방학 1주차\\Delegate&Lambda\\Delegate&Lambda3_2\\Linp.csproj",
       "packagesPath": "C:\\Users\\ododo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ododo\\Desktop\\R-eve\\방학 1주차\\Delegate&Lambda\\Delegate&Lambda3_2\\obj\\",
       "projectStyle": "PackageReference",
