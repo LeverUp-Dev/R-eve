@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\bin\Debug\net6.0\Hanoi.exe
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\bin\Debug\net6.0\Hanoi.deps.json
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\bin\Debug\net6.0\Hanoi.runtimeconfig.json
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\bin\Debug\net6.0\Hanoi.dll
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\bin\Debug\net6.0\Hanoi.pdb
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.AssemblyInfo.cs
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.dll
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\obj\Debug\net6.0\refint\Hanoi.dll
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.pdb
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.genruntimeconfig.cache
+C:\Users\ododo\Desktop\R-eve\방학 2주차\Hanoi\Hanoi\obj\Debug\net6.0\ref\Hanoi.dll
