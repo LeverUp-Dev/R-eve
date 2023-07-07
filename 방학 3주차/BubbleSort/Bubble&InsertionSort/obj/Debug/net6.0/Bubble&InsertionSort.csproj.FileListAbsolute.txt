@@ -1,0 +1,15 @@
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\bin\Debug\net6.0\Bubble&InsertionSort.exe
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\bin\Debug\net6.0\Bubble&InsertionSort.deps.json
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\bin\Debug\net6.0\Bubble&InsertionSort.runtimeconfig.json
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\bin\Debug\net6.0\Bubble&InsertionSort.dll
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\bin\Debug\net6.0\Bubble&InsertionSort.pdb
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\obj\Debug\net6.0\Bubble&InsertionSort.csproj.AssemblyReference.cache
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\obj\Debug\net6.0\Bubble&InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\obj\Debug\net6.0\Bubble&InsertionSort.AssemblyInfoInputs.cache
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\obj\Debug\net6.0\Bubble&InsertionSort.AssemblyInfo.cs
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\obj\Debug\net6.0\Bubble&InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\obj\Debug\net6.0\Bubble&InsertionSort.dll
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\obj\Debug\net6.0\refint\Bubble&InsertionSort.dll
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\obj\Debug\net6.0\Bubble&InsertionSort.pdb
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\obj\Debug\net6.0\Bubble&InsertionSort.genruntimeconfig.cache
+C:\Users\ododo\Desktop\R-eve\방학 3주차\BubbleSort\Bubble&InsertionSort\obj\Debug\net6.0\ref\Bubble&InsertionSort.dll
