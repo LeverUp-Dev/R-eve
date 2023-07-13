@@ -28,7 +28,7 @@
         Print(list);
     }
 
-    //리스트 출력
+    //배열 출력
     static void Print(int[] list)
     {
         for (int i = 0; i < list.Length; i++)

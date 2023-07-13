@@ -1,4 +1,5 @@
-﻿using System.Reflection.Metadata;
+﻿using System.Diagnostics.SymbolStore;
+using System.Reflection.Metadata;
 using System.Text.RegularExpressions;
 
 internal class Program
@@ -24,6 +25,7 @@ internal class Program
                 high--;
             }
         }
+
         //입력받은 문자열이 짝수 일 때
         else if (result.Length % 2 == 0)
         {
@@ -41,6 +43,32 @@ internal class Program
         return isPalindrome;
     }
 
+    public static bool Palindrome2(string str)
+    {
+        Queue<char> queue = new Queue<char>();
+        Stack<char> stack = new Stack<char>();
+
+        string result = Regex.Replace(str.ToLower(), @"[^a-zA-Z0-9가-힣]", "");
+
+        for (int i = 0; i < result.Length; i++)
+        {
+            stack.Push(result[i]);
+            queue.Enqueue(result[i]);
+        }
+
+        while (queue.Count != 0)
+        {
+            string q = queue.Dequeue().ToString();
+            string s = stack.Pop().ToString();
+
+            if(q != s)
+            {
+                return false;
+            }
+        }
+        return true;
+    }
+
     private static void Main(string[] args) 
     {
         Console.WriteLine("Exit를 입력시 종료");
@@ -49,7 +77,8 @@ internal class Program
         {   
             input = Console.ReadLine();
             Console.Write("회문인가? ");
-            Console.WriteLine(Palindrome(input));
+            //Console.WriteLine(Palindrome(input));
+            Console.WriteLine(Palindrome2(input));
         }
     }
 }
