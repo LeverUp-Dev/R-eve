@@ -10,7 +10,7 @@ namespace MazeGenerate
     {
         public static void Main(String[] argc)
         {
-            Map stage = new Map(120, 30);
+            Map stage = new Map(60, 30);
             while (true) stage.Run();
         }
     }

@@ -40,7 +40,8 @@ namespace MazeGenerate
         {
             P.Input();
 
-            if (P.y < 0 || P.y >= height) P.y = yPos;
+            if (P.y < 0 || P.y >= height)
+                P.y = yPos;
             else if (map[P.x, P.y] == Stage.Wall)
             {
                 P.x = xPos;

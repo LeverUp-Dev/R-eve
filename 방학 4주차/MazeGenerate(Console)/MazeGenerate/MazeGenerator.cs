@@ -127,7 +127,8 @@ namespace MazeGenerate
                 if (r == 0)
                 {
                     p.Censor(x, y + 2);
-                    if (p.y > yRange || track.Contains(p) || visited.Contains(p)) isBlock[r] = true;
+                    if (p.y > yRange || track.Contains(p) || visited.Contains(p)) 
+                        isBlock[r] = true;
                     else
                     {
                         map[x, y + 1] = Stage.Room;
@@ -141,7 +142,8 @@ namespace MazeGenerate
                 else if (r == 1)
                 {
                     p.Censor(x + 4, y);
-                    if (p.x > xRange || track.Contains(p) || visited.Contains(p)) isBlock[r] = true;
+                    if (p.x > xRange || track.Contains(p) || visited.Contains(p)) 
+                        isBlock[r] = true;
                     else
                     {
                         map[x + 2, y] = Stage.Room;
@@ -155,7 +157,8 @@ namespace MazeGenerate
                 else if (r == 2)
                 {
                     p.Censor(x, y - 2);
-                    if (p.y < 0 || track.Contains(p) || visited.Contains(p)) isBlock[r] = true;
+                    if (p.y < 0 || track.Contains(p) || visited.Contains(p)) 
+                        isBlock[r] = true;
                     else
                     {
                         map[x, y - 1] = Stage.Room;
@@ -169,7 +172,8 @@ namespace MazeGenerate
                 else if (r == 3)
                 {
                     p.Censor(x - 4, y);
-                    if (p.x < 0 || track.Contains(p) || visited.Contains(p)) isBlock[r] = true;
+                    if (p.x < 0 || track.Contains(p) || visited.Contains(p)) 
+                        isBlock[r] = true;
                     else
                     {
                         map[x - 1, y] = Stage.Room;
@@ -183,7 +187,21 @@ namespace MazeGenerate
             }
         }
 
-        void Clear(bool[] isBlock){ for (int j = 0; j < isBlock.Length; ++j) isBlock[j] = false; }
-        bool IsAllTrue(bool[] isBlock) { for (int j = 0; j < isBlock.Length; ++j) if (!isBlock[j]) return false; return true; }
+        void Clear(bool[] isBlock)
+        {
+            for (int j = 0; j < isBlock.Length; ++j)
+            {
+                isBlock[j] = false;
+            }
+        }
+        bool IsAllTrue(bool[] isBlock)
+        {
+            for (int j = 0; j < isBlock.Length; ++j)
+            {
+                if (!isBlock[j])
+                    return false;
+            }
+            return true; 
+        }
     }
 }

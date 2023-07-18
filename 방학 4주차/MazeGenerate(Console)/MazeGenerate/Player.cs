@@ -32,10 +32,10 @@ namespace MazeGenerate
                     y++;
                     break;
                 case ConsoleKey.LeftArrow:
-                    x--;
+                    x-=2;
                     break;
                 case ConsoleKey.RightArrow:
-                    x++;
+                    x+=2;
                     break;
                 default:
                     break;
